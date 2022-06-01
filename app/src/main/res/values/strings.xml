@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InternshipTask</string>
+
+    <string name="addrequest">Add Request</string>
+    <string name="checkresults">Check Results</string>
+    <string name="nextrequest">Next Request</string>
+    <string name="next_request">next Request</string>
+    <string name="enter_url">Enter URl</string>
+    <string name="key">Key</string>
+    <string name="hint_value">Value</string>
+    <string name="add_values">Add Values</string>
+    <string name="error_requestheader">Enter Request Header</string>
+    <string name="error_websiturl">Enter Website URl</string>
+    <string name="retry">Retry</string>
+    <string name="please_check_internet">Please Check Your Internet</string>
+    <string name="no_internet">NO Internet Connection</string>
+    <string name="oops">OOPS!</string>
+
+    <string-array name="HttpMethodes">
+        <item>Get</item>
+        <item>Post</item>
+    </string-array>
+
+
+
+</resources>
