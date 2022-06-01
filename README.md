@@ -15,16 +15,16 @@ d. Request body or query parameters depending on request type
 not make the call
 <br>
 How To Deal With APP ? <br>
-first choose if you want  Post Data or Get Data 
-if you want Post :
-  enter Webstie Link like this ("https://jsonplaceholder.typicode.com")
-  and then enter Requeset Header("products/8") rest of url link
-  then Click Add Request 
+first choose if you want  Post Data or Get Data <br>
+if you want Post :<br>
+  enter Webstie Link like this ("https://jsonplaceholder.typicode.com")<br>
+  and then enter Requeset Header("products/8") rest of url link<br>
+  then Click Add Request <br>
   
-  you can Check Reuslts or Add More Request 
-if you want Get Data:
- enter Webstie Link like("https://jsonplaceholder.typicode.com/products")
- then add key and value
+  you can Check Reuslts or Add More Request <br>
+if you want Get Data:<br>
+ enter Webstie Link like("https://jsonplaceholder.typicode.com/products")<br>
+ then add key and value<br>
  
  
   
